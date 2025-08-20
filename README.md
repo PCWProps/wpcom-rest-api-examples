@@ -40,5 +40,5 @@ If you implement a demo for a framework not listed here, we'd love to include it
 
 ## Resources
 
-- [WordPress.com Developer Docs](https://developer.wordpress.com/docs/wpcc/)
-- [WordPress.com REST API Reference](https://developer.wordpress.com/docs/api/)
+- [WordPress.com Developer Docs](https://developer.wordpress.com/docs/)
+- [WordPress.com REST API](https://developer.wordpress.com/docs/api/)
