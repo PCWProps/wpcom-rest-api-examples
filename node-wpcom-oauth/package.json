@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^5.1.0",
-    "express-session": "^1.18.1",
+    "express-session": "^1.18.2",
     "node-fetch": "^2.7.0",
     "pug": "^3.0.3",
     "wpcom": "^5.4.2",
